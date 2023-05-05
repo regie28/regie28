@@ -1,8 +1,7 @@
 <a href="https://app.daily.dev/regie28"><img src="https://github.com/regie28/regie28/blob/main/devcard.svg" width="400" alt="Reginald Bartiana's Dev Card"/></a>
-- 👋 Hi, I’m @regie28
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Reginald Bartiana @regie28
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PERN Stack
 - 📫 How to reach me rbartiana@tutanota.com
 
 <!---

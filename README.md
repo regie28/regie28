@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+,+How+are+you?)](https://git.io/typing-svg)
 
-I'm Reginald Bartiana, An aspiring Web Developer currently learning a P.E.R.N Stack.
+I'm Reginald Bartiana here, An aspiring Web Developer from 🇵🇭  currently learning a P.E.R.N Stack. In my freetime I love watching anime
 
 ________________________________________________________________________________________________________________________
 👋 A quick introduction

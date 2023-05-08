@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+,+How+are+you?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+How+are+you?)](https://git.io/typing-svg)
 
 I'm Reginald Bartiana, An aspiring Web Developer from  Cebu 🇵🇭   currently learning a P.E.R.N Stack. 
 

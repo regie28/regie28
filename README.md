@@ -6,7 +6,7 @@ I'm Reginald Bartiana, An aspiring Web Developer currently learning a P.E.R.N St
 ________________________________________________________________________________________________________________________
 A quick introduction
 
-..* 👋 Hi, I’m Reginald Bartiana @regie28
+*👋 Hi, I’m Reginald Bartiana @regie28
 👀 I’m interested in Web Development
 🌱 I’m currently learning PERN Stack
 📫 How to reach me rbartiana@tutanota.com

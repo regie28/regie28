@@ -11,6 +11,8 @@ ________________________________________________________________________________
 * 💼 I'm open to freelancing projects.
 
 _________________________________________________________________________________________________________________________
+Dev Card
+<br />
 
 <a href="https://app.daily.dev/regie28"><img src="https://github.com/regie28/regie28/blob/main/devcard.svg" width="400" alt="Reginald Bartiana's Dev Card"/></a>
 

@@ -42,4 +42,4 @@ ________________________________________________________________________________
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=regie28&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regie28&layout=compact)](https://github.com/regie28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regie28&layout=compact&theme=tokyonight)](https://github.com/regie28/github-readme-stats)

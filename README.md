@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+How+are+you?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+How+are+you?)](https://git.io/typing-svg)
 
 I'm Reginald Bartiana, An aspiring Web Developer from  Cebu 🇵🇭   currently learning a P.E.R.N Stack. 
 
@@ -19,4 +19,4 @@ ________________________________________________________________________________
 
 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regie28/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regie28/) [![Email](https://img.shields.io/badge/Email-ACB1D6?style=for-the-badge&logo=email&logoColor=white)](https://tutanota.com/regie28)

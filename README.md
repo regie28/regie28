@@ -19,4 +19,4 @@ ________________________________________________________________________________
 
 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regie28/) [![Email](https://img.shields.io/badge/tutanota-ACB1D6?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/regie28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regie28/) [![Email](https://img.shields.io/badge/tutanota-ACB1D6?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/regie28) [![Instagram](https://img.shields.io/badge/instagram-D25380?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/regiebartiana/)

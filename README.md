@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+How+are+you?)](https://git.io/typing-svg)
 
-I'm Reginald Bartiana, A Web Developer from  Cebu 🇵🇭   currently learning a P.E.R.N Stack. 
+I'm Reginald Bartiana, A Web Developer from  Cebu 🇵🇭  open for collaboration with any Projects. 
 
 ________________________________________________________________________________________________________________________
 👋 A quick introduction
 
 * 👋 Hi, I’m Reginald Bartiana @regie28
-* 💻 I’m interested in Web Development
-* 🌱 I’m currently learning TypeScript
+* 💻 I’m interested in Mobile Development
+* 🌱 I’m currently learning Flutter
 * 💼 I'm open to freelancing projects.
 
 _________________________________________________________________________________________________________________________
